@@ -2,7 +2,7 @@
 
 With golang we can build apps that run on any OS. 
 
-We will use a desktop framework called wails for this talk.
+We will use a desktop framework called [wails](https://github.com/wailsapp) for this talk.
 
 ## Prerequisites
 
